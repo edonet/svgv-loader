@@ -1,0 +1,12 @@
+{
+  "name": "svgv-loader",
+  "version": "0.1.0",
+  "description": "svg var loader",
+  "main": "index.js",
+  "repository": "git@github.com:edonet/svgv-loader.git",
+  "author": "edoner <edonet@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "svgo": "^0.7.2"
+  }
+}
